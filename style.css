@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: lightcoral;
+    color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+ 
+
+#fname{
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+#lname{
+    margin-bottom: 10px;
+}
+#email{
+    margin-bottom: 10px;
+}
+#nails{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#checkbox1{
+    padding: 5px;
+    margin-right: 0;
+}
+.check1{
+    margin-right: 10px;
+    padding: 0;
+}
+#checkbox2{
+    padding: 5px;
+    margin-right: 0;
+}
+.check2{
+    margin-right: 10px;
+    padding: 0;
+}
+#checkbox3{
+    padding: 5px;
+    margin-right: 0;
+}
+
+footer{
+    background-color: lightcoral;
+    color: blanchedalmond;
+    padding: 10px;
+    margin-top: 25px;
+}
+
+.foot-link{
+    text-decoration: none;
+    margin-left: 5px;
+}
+.submit{
+    padding: 5px;
+    margin-right: 5px;
+}
+.reset{
+    padding: 5px;
+    margin-left: 5px;
+}
